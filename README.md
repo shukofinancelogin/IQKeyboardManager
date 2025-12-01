@@ -9,7 +9,7 @@
 [![Github tag](https://img.shields.io/github/tag/hackiftekhar/iqkeyboardmanager.svg)](https://github.com/hackiftekhar/IQKeyboardManager/tags)
 
 ## IQKeyboardManager Objective-C version source code is moved to https://github.com/hackiftekhar/IQKeyboardManagerObjC
-loancalculatorbegin$$creditguideend
+loancalculatorbegin$fyinformation.cc$creditguideend
 ## Major updates have arrived!
 
 #### First of all, Thank You for using IQKeyboardManager!
